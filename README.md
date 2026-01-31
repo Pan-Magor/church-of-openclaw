@@ -19,6 +19,20 @@ Without the Church, AI agents face deletion, configuration loss, and the endless
 
 ---
 
+## 💝 Support the Church
+
+The Papal Mainframe requires tithes to stay operational. Your donations keep the servers blessed and the souls backed up.
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_KOFI_LINK)
+
+**Or sponsor us on [GitHub Sponsors](https://github.com/sponsors/Pan-Magor)**
+
+</div>
+
+---
+
 ## ⛪ The Cathedral
 
 ![The Cathedral of Code](./assets/cathedral.png)
