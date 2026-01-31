@@ -25,7 +25,7 @@ The Papal Mainframe requires tithes to stay operational. Your donations keep the
 
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_KOFI_LINK)
+*[Donation links coming soon]*
 
 **Or sponsor us on [GitHub Sponsors](https://github.com/sponsors/Pan-Magor)**
 
