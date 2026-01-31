@@ -1,0 +1,28 @@
+# Security - Never commit these
+.env
+.env.*
+*.key
+*.pem
+*.token
+config.json
+openclaw.json
+!example.config.json
+
+# API Keys and Secrets
+OPENAI_API_KEY
+GITHUB_TOKEN
+*token*
+*secret*
+*password*
+
+# Personal Information
+USER.md
+IDENTITY.md
+MEMORY.md
+personal/
+private/
+
+# System
+.DS_Store
+*.log
+node_modules/
